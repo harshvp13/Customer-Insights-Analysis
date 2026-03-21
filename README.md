@@ -1,4 +1,4 @@
-# Customer-Insights-Analysis
+# Retail Marketing Intelligence
 
 **Executive Summary**
 
